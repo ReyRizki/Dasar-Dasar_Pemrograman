@@ -1,0 +1,6 @@
+Abjat, Antri, Batere, Detil, Eksport, Elit, Hipotesa, Import, Karna
+Antri, Batere, Detil, Eksport, Elit, Hipotesa, Import, Karna, Abjat 
+Batere, Detil, Eksport, Elit, Hipotesa, Import, Karna, Abjat, Antri
+Detil, Eksport, Elit, Hipotesa, Import, Karna, Abjat, Antri, Batere
+Eksport, Elit, Hipotesa, Import, Karna, Abjat, Antri, Batere, Detil
+
